@@ -1,0 +1,4 @@
+# spark.job
+type=command
+dependencies=dws_load_data
+command=/spark-submit --class spark qf_bap-1.0-SNAPSHOT.jar

@@ -1,0 +1,3 @@
+type=command
+dependencies=ods_load_data_full
+command=sh ods_load_data_incr.sh

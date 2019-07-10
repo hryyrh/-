@@ -1,0 +1,2 @@
+type=command
+command=sh load_data_full.sh

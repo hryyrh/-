@@ -1,0 +1,3 @@
+type=command
+dependencies=ods_load_data_incr
+command=hive -f dwd_load_data.sh

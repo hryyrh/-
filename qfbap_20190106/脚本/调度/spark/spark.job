@@ -1,0 +1,3 @@
+# spark.job
+type=command
+command=/spark-submit --class spark qf_bap-1.0-SNAPSHOT.jar
